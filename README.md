@@ -11,9 +11,18 @@
  
 "Lost Behavior Model" is an algorithm of lost behavior simulations with Python.
 
-This repository is an algorithm version. 
+<!-- This repository is an algorithm version. 
 
-The code for visualization is in other repositories.
+The code for visualization is in other repositories. -->
+
+This repository is Algorithms and Visualization version.
+
+The simulation environment has three uncertainties.
+
+* Arc of Prior Information
+* Discover the Actual Node (0.8)
+<!-- * Actual Node Discovery -->
+* Move Prob of Agent (0.8)
  
 <!-- # DEMO
  
