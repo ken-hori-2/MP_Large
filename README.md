@@ -21,8 +21,9 @@ The simulation environment has three uncertainties.
 
 * Arc of Prior Information
 * Discover the Actual Node (0.8)
-<!-- * Actual Node Discovery -->
 * Move Prob of Agent (0.8)
+
+<!-- * Actual Node Discovery -->
  
 <!-- # DEMO
  
