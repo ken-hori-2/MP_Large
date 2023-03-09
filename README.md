@@ -66,4 +66,5 @@ I don't test environments under Linux and Windows.
 
 <!-- "MP Large" is under ken. -->
 This code is based on MDP.(After Backed Decision)
+
 "Lost Behavior Model" is under [MDP license](https://en.wikipedia.org/wiki/Markov_decision_process).
