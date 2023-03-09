@@ -5,11 +5,14 @@
 
 
 
-# Name（リポジトリ/プロジェクト/OSSなどの名前）
+# Lost Behavior Model
+<!-- （リポジトリ/プロジェクト/OSSなどの名前） -->
  
-分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
- 
-"hoge"が何かを簡潔に紹介する
+"Lost-Behavior-Model" is an algorithm of lost behavior simulations with Python.
+
+This repository is an algorithm version. 
+
+The code for visualization is in other repositories.
  
 # DEMO
  
@@ -23,36 +26,39 @@
  
 "hoge"を動かすのに必要なライブラリなどを列挙する
  
-* huga 3.5.2
-* hogehuga 1.0.2
- 
+* Python 3.8.8
+
 # Installation
  
 Requirementで列挙したライブラリなどのインストール方法を説明する
  
 ```bash
-pip install huga_package
+pip install python3
 ```
  
 # Usage
  
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
+<!-- DEMOの実行方法など、"hoge"の基本的な使い方を説明する -->
+
+Please execution python code named "main.py".
  
 ```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
+git clone git@github.com:ken-hori-2/MP_Large.git
+cd src
+python main.py (Virtual MDP ver.)
+python main2.py (Vsual ver.)
 ```
  
 # Note
  
-注意点などがあれば書く
+<!-- 注意点などがあれば書く -->
+I don't test environments under Linux and Windows.
  
 # Author
  
 作成情報を列挙する
  
-* 作成者 ken
+* 作成者 Horiuchi
 * 所属 k-lab
 * E-mail
  
