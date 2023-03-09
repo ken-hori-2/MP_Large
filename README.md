@@ -8,7 +8,7 @@
 # Lost Behavior Model
 <!-- （リポジトリ/プロジェクト/OSSなどの名前） -->
  
-"Lost-Behavior-Model" is an algorithm of lost behavior simulations with Python.
+"Lost Behavior Model" is an algorithm of lost behavior simulations with Python.
 
 This repository is an algorithm version. 
 
