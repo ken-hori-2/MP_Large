@@ -52,10 +52,10 @@ python demo.py
  
 作成情報を列挙する
  
-* 作成者
-* 所属
+* 作成者 ken
+* 所属 k-lab
 * E-mail
  
 # License
 
-"hoge" is under ken.
+"MP Large" is under ken.
