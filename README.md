@@ -14,23 +14,23 @@ This repository is an algorithm version.
 
 The code for visualization is in other repositories.
  
-# DEMO
+<!-- # DEMO
  
 "hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
  
 # Features
  
-"hoge"のセールスポイントや差別化などを説明する
+"hoge"のセールスポイントや差別化などを説明する -->
  
 # Requirement
  
-"hoge"を動かすのに必要なライブラリなどを列挙する
+<!-- "hoge"を動かすのに必要なライブラリなどを列挙する -->
  
 * Python 3.8.8
 
 # Installation
  
-Requirementで列挙したライブラリなどのインストール方法を説明する
+<!-- Requirementで列挙したライブラリなどのインストール方法を説明する -->
  
 ```bash
 pip install python3
@@ -46,7 +46,7 @@ Please execution python code named "main.py".
 git clone git@github.com:ken-hori-2/MP_Large.git
 cd src
 python main.py (Virtual MDP ver.)
-python main2.py (Vsual ver.)
+python main2.py (Visual ver.)
 ```
  
 # Note
@@ -56,7 +56,7 @@ I don't test environments under Linux and Windows.
  
 # Author
  
-作成情報を列挙する
+<!-- 作成情報を列挙する -->
  
 * 作成者 Horiuchi
 * 所属 k-lab
@@ -64,4 +64,6 @@ I don't test environments under Linux and Windows.
  
 # License
 
-"MP Large" is under ken.
+<!-- "MP Large" is under ken. -->
+This code is based on MDP.(After Backed Decision)
+"Lost Behavior Model" is under [MDP license](https://en.wikipedia.org/wiki/Markov_decision_process).
