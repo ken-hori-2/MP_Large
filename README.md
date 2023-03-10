@@ -17,6 +17,18 @@ The code for visualization is in other repositories. -->
 
 This repository is Algorithms and Visualization version.
 
+# Prior Information
+
+<!-- These two have only fragmentary information as prior information. -->
+<!-- Only the following two fragments of prior information are retained. -->
+Agents have two pieces of prior information.
+
+These are fragments of information that do not contain spatial information such as coordinates.
+
+* Arc(Distance)
+* Node(Landmark)
+
+# Uncertainty
 The simulation environment has three uncertainties.
 
 * Arc of Prior Information
